@@ -3,7 +3,7 @@
   <groupId>com.jfianl</groupId>
   <artifactId>core</artifactId>
   <packaging>war</packaging>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>core Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -22,7 +22,7 @@
   </dependencies>
   <scm>
     <developerConnection>scm:git:https://github.com/javaxingchen/maven-git-scm-release.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>core-1.0.1</tag>
   </scm>
   <build>
     <plugins>
